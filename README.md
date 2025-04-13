@@ -31,7 +31,7 @@ DSA in C++ repository || Topic Name & Code || YouTube Series - Apna College || D
   - Nested Loop
   - Problems based on while Loop, for Loop, do-while Loop, Nested Loop
   
-# Lecture-4 (13-04-2025)
+# Lecture-4 (14-04-2025)
 14. Patterns
   - Problems based on Square Pattern (Nos, char, stars) and Dry Run Analysis of Code/Logic
   - Problems based on Triangle Pattern(stars, Nos, characters)
