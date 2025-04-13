@@ -1,5 +1,5 @@
 # DSA-By-Shradha-Ma-am
-DSA in C++ repository , Short Notes and Code (YouTube Series) : Daily Practice, Date- 12-04-2025
+DSA in C++ repository || Topic Name & Code || YouTube Series - Apna College || Daily Practice || Starting Date: 11-04-2025
 
 # Lecture-1 (11-04-2025)
 1. Flow Chart
@@ -31,5 +31,13 @@ DSA in C++ repository , Short Notes and Code (YouTube Series) : Daily Practice, 
   - Nested Loop
   - Problems based on while Loop, for Loop, do-while Loop, Nested Loop
   
-# Lecture-4 (14-04-2025)
-14. 
+# Lecture-4 (13-04-2025)
+14. Patterns
+  - Problems based on Square Pattern (Nos, char, stars) and Dry Run Analysis of Code/Logic
+  - Problems based on Triangle Pattern(stars, Nos, characters)
+  - Problems based on Reverse Triangle Pattern
+  - Problems based on Floyd's Triangle Pattern
+  - Problems based on Inverted Triangle Pattern
+  - Problems based on Pyramid Pattern
+  - Problems based on Hollow Diamond Pattern
+  - Problems based on Butterfly Pattern
