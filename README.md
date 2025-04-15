@@ -1,13 +1,13 @@
 # DSA-By-Shradha-Ma-am
 DSA in C++ repository || Topic Name & Code || YouTube Series - Apna College || Daily Practice || Starting Date: 11-04-2025
 
-# Lecture-1 (11-04-2025)
+# Lecture-1 (11-04-2025) || Day-1
 1. Flow Chart
 2. PseudoCode
 3. Problems based on PseudoCode and Flowchart
 4. How does code run in C++?
 
-# Lecture-2 (12-04-2025)
+# Lecture-2 (12-04-2025) || Day-2
 5. Output in C++
 6. Variables
 7. Data Types- Primitive Data Types
@@ -15,7 +15,7 @@ DSA in C++ repository || Topic Name & Code || YouTube Series - Apna College || D
 9. Input in C++
 10. Operators
 
-# Lecture-3 (13-04-2025)
+# Lecture-3 (13-04-2025) || Day-3
 11. Conditional Statements
      - If-else
        - Problems based on If-else
@@ -31,7 +31,7 @@ DSA in C++ repository || Topic Name & Code || YouTube Series - Apna College || D
   - Nested Loop
   - Problems based on while Loop, for Loop, do-while Loop, Nested Loop
   
-# Lecture-4 (14-04-2025)
+# Lecture-4 (14-04-2025) || Day-4
 14. Patterns
   - Problems based on Square Pattern (Nos, char, stars) and Dry Run Analysis of Code/Logic
   - Problems based on Triangle Pattern(stars, Nos, characters)
@@ -42,7 +42,7 @@ DSA in C++ repository || Topic Name & Code || YouTube Series - Apna College || D
   - Problems based on Hollow Diamond Pattern
   - Problems based on Butterfly Pattern
 
-# Lecture-5 (14-04-2025)
+# Lecture-5 (14-04-2025) || Day-4
 15. Functions
   - Function Syntax
   - Function Definition
@@ -55,7 +55,7 @@ DSA in C++ repository || Topic Name & Code || YouTube Series - Apna College || D
   - switch statement
   - Problems based on pass by value
 
-# Lecture-6 (15-04-2025)
+# Lecture-6 (15-04-2025) || Day-5
 16. Binary Number System
   - Decimal to Binary Conversion
   - Write code of Decimal to Binary Number conversion
@@ -64,7 +64,7 @@ DSA in C++ repository || Topic Name & Code || YouTube Series - Apna College || D
   - Two's Complement
         
 
-# Lecture-7 (15-04-2025)
+# Lecture-7 (15-04-2025) || Day-5
 17. Bitwise operator
   - Bitwise operator
         - Bitwise &
