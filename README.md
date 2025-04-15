@@ -41,3 +41,40 @@ DSA in C++ repository || Topic Name & Code || YouTube Series - Apna College || D
   - Problems based on Pyramid Pattern
   - Problems based on Hollow Diamond Pattern
   - Problems based on Butterfly Pattern
+
+# Lecture-5 (14-04-2025)
+15. Functions
+  - Function Syntax
+  - Function Definition
+  - Function Call / Function Invoke
+  - parameters
+  - arguments (Literals)
+  - Problems based on Functions
+  - Function in Memory( when we create the function , what happens in memory?)
+  - pass by value
+  - switch statement
+  - Problems based on pass by value
+
+# Lecture-6 (15-04-2025)
+16. Binary Number System
+  - Decimal to Binary Conversion
+  - Write code of Decimal to Binary Number conversion
+  - Binary to Decimal Conversion
+  - Write code of Binary to Decimal Number conversion
+  - Two's Complement
+        
+
+# Lecture-7 (15-04-2025)
+17. Bitwise operator
+  - Bitwise operator
+        - Bitwise &
+        - Bitwise |
+        - Bitwise ^
+        - Bitwise <<
+        - Bitwise >>
+  - write code for Bitwise operators
+18. Operator Precendence
+19. Scope
+  - Local Scope
+  - Global Scope
+20. Data Type modifiers
