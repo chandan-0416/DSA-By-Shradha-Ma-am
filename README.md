@@ -78,3 +78,18 @@ DSA in C++ repository || Topic Name & Code || YouTube Series - Apna College || D
   - Local Scope
   - Global Scope
 20. Data Type modifiers
+
+#### BREAK BREAK ----  
+
+# Lecture-8 (12-05-2025) || Day-6
+21. Array
+     - create, Properties , Syntax, access data from array, index, position
+     - loops on array
+     - find smallest / largest value in array
+     - Pass by reference
+22. Linear Search 
+    - find index of array by linear search if target value is given
+    - Reverse an array through 2 pointer approach
+
+# Lecture-9 (12-05-2025) || Day-6
+23. 
