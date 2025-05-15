@@ -1,5 +1,5 @@
 # DSA-By-Shradha-Ma-am
-DSA in C++ repository || Topic Name & Code || YouTube Series - Apna College || Daily Practice || Starting Date: 11-04-2025
+DSA with C++ || Github repository || Lecture Number, Date, Days, Topic Name & Code || YouTube Series - Apna College || Daily Practice || Starting Date: 11-04-2025
 
 # Lecture-1 (11-04-2025) || Day-1
 1. Flow Chart
@@ -63,7 +63,6 @@ DSA in C++ repository || Topic Name & Code || YouTube Series - Apna College || D
   - Write code of Binary to Decimal Number conversion
   - Two's Complement
         
-
 # Lecture-7 (15-04-2025) || Day-5
 17. Bitwise operator
   - Bitwise operator
@@ -79,7 +78,7 @@ DSA in C++ repository || Topic Name & Code || YouTube Series - Apna College || D
   - Global Scope
 20. Data Type modifiers
 
-#### BREAK BREAK ----  
+# --------- Continuity : BREAK BREAK BREAK BREAK BREAK BREAK BREAK -------------  
 
 # Lecture-8 (12-05-2025) || Day-6
 21. Array
@@ -91,5 +90,10 @@ DSA in C++ repository || Topic Name & Code || YouTube Series - Apna College || D
     - find index of array by linear search if target value is given
     - Reverse an array through 2 pointer approach
 
-# Lecture-9 (12-05-2025) || Day-6
-23. 
+# Lecture-9 (13-05-2025) || Day-7
+23.  Vector
+    - STL library 
+    - syntax of vector : Creation of empty vector, creation of vector with some value, creation of vector with some fixed value
+    - vector : for each loop
+    - Vector Function
+

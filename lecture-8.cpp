@@ -94,26 +94,26 @@ using namespace std;
 //6. Reverse on array
 //logic
 
-void reverseArray(int arr[],int sz){
-   int start = 0, end = sz-1;
-   while (start<end)
-   {
-      swap(arr[start], arr[end]);
-      start++;
-      end--;
+// void reverseArray(int arr[],int sz){
+//    int start = 0, end = sz-1;
+//    while (start<end)
+//    {
+//       swap(arr[start], arr[end]);
+//       start++;
+//       end--;
       
-   } 
-}
-int main(){
-   int arr[]={1,2,3,4,5};
-   int sz=5;
-   //call
-   reverseArray(arr, sz);
+//    } 
+// }
+// int main(){
+//    int arr[]={1,2,3,4,5};
+//    int sz=5;
+//    //call
+//    reverseArray(arr, sz);
 
-   for(int i=0; i<sz; i++){
-      cout<<arr[i]<<" ";
-   }
-   cout<<endl;
-   return 0;
-}
+//    for(int i=0; i<sz; i++){
+//       cout<<arr[i]<<" ";
+//    }
+//    cout<<endl;
+//    return 0;
+// }
 
