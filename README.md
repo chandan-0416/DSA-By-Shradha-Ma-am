@@ -1,5 +1,5 @@
 # DSA-By-Shradha-Ma-am
-DSA with C++ || GitHub repository || Lecture Number, Date, Topics Name || Starting Date: 11-04-2025
+Data Structures and Algorithms with C++ || GitHub repository || Lecture Numbers, Date, Topics Name, Leetcode Problems || Starting Date: 11-04-2025
 
 # Lecture-1 (11-04-2025) 
 1. Flow Chart
@@ -91,7 +91,7 @@ DSA with C++ || GitHub repository || Lecture Number, Date, Topics Name || Starti
     - Reverse an array through 2 pointer approach
 
 # Lecture-9 (13-05-2025)
-23.  Vector
+23. Vector
     - STL library 
     - syntax of vector : Creation of empty vector, creation of vector with some value, creation of vector with some fixed value
     - vector : for each loop
@@ -101,4 +101,11 @@ DSA with C++ || GitHub repository || Lecture Number, Date, Topics Name || Starti
 
 # Lecture-10 (14-05-2025)
 24. Sub Array 
-    - Maximum subArray Sum using Brute Force Approach , Kadane's Algorithm 
+    - Maximum subArray Sum using Brute Force Approach , Kadane's Algorithm (most Optimized Approach)
+    - LeetCode Problem No. 53 : Maximum Subarray
+
+# Lecture-11 (15-05-2025)
+25. Problem : Pair Sum 
+      - Using Brute Force Apporach, Two Pointer Approach (most Optimized Approach)
+      - LeetCode Problem No. 169 : Majority Element
+          - Using Brute force, Sorting, Moore's Voting Algorithm
