@@ -109,3 +109,19 @@ Data Structures and Algorithms with C++ || GitHub repository || Lecture Numbers,
       - Using Brute Force Apporach, Two Pointer Approach (most Optimized Approach)
       - LeetCode Problem No. 169 : Majority Element
           - Using Brute force, Sorting, Moore's Voting Algorithm
+
+# Lecture-12 (16-05-2025)
+26. Time and Space Complexity
+      - Time Complexity
+      - Space Complexity
+      - Comman time complexities
+      - Practiacl usages of time complexity (online coding platform)
+
+# Lecture-13 (17-05-2025)
+27. LeetCode Problems
+    - Problem No. 50 : Compute X^n using Binary Exponentiation
+    - Problem No. 121 : Stock Buy and Sell
+
+# Lecture-14 (18-05-2025)
+28. Container with Most Water Problem
+    - 
