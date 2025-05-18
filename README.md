@@ -123,5 +123,9 @@ Data Structures and Algorithms with C++ || GitHub repository || Lecture Numbers,
     - Problem No. 121 : Stock Buy and Sell
 
 # Lecture-14 (18-05-2025)
-28. Container with Most Water Problem
-    - 
+28. LeetCode Problems
+    - problem No. 11 : Container with Most Water
+           - using Brute force approach (understand)
+           - most optimal approach using Two Pointer Approach
+
+# Lecture-15 (19-05-2025)
