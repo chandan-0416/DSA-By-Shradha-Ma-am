@@ -125,7 +125,11 @@ Data Structures and Algorithms with C++ || GitHub repository || Lecture Numbers,
 # Lecture-14 (18-05-2025)
 28. LeetCode Problems
     - problem No. 11 : Container with Most Water
-           - using Brute force approach (understand)
-           - most optimal approach using Two Pointer Approach
+        - using Brute force approach (understand)
+        - most optimal approach using Two Pointer Approach
 
 # Lecture-15 (19-05-2025)
+29. Leetcode Problems
+    - Problem No. 238 : Product of Array except self
+         - using Brute force approach (understand)
+         - most optimal approach 
