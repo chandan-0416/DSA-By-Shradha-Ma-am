@@ -132,4 +132,9 @@ Data Structures and Algorithms with C++ || GitHub repository || Lecture Numbers,
 29. Leetcode Problems
     - Problem No. 238 : Product of Array except self
          - using Brute force approach (understand)
-         - most optimal approach 
+         - most optimal approach
+
+# Lecture-16 (20-05-2025)
+30. Pointer
+     - Memory addresses
+     - 
