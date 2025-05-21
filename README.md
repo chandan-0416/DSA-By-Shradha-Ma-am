@@ -137,4 +137,14 @@ Data Structures and Algorithms with C++ || GitHub repository || Lecture Numbers,
 # Lecture-16 (20-05-2025)
 30. Pointer
      - Memory addresses
-     - 
+     - Pointers, Pointer to Pointer
+     - Deference pointer
+     - Null Pointer
+     - Pass by reference - using Pointer & reference (Alias)
+     - Array Pointers
+     - Pointer Arithmatic 
+
+# Lecture-17 (21-05-2025)
+31. Binary Search
+     - Approach, Iterative code, optimize
+     - TC of Binary search
