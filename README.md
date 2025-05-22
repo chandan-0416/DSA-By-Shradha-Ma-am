@@ -148,3 +148,14 @@ Data Structures and Algorithms with C++ || GitHub repository || Lecture Numbers,
 31. Binary Search
      - Approach, Iterative code, optimize
      - TC of Binary search
+
+# Lecture-18 (21-05-2025)
+33. Leetcode Problem
+     - Problem No. 33 : Search in Rotated sorted array
+
+# Lecture-19 (22-05-2025)
+34. Leetcode Problem
+      - Problem No. 852 : Peak element in Maountain Array
+
+# Lecture-20 (23-05-2025)
+35. 
