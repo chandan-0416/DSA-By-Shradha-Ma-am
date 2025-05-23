@@ -158,4 +158,5 @@ Data Structures and Algorithms with C++ || GitHub repository || Lecture Numbers,
       - Problem No. 852 : Peak element in Maountain Array
 
 # Lecture-20 (23-05-2025)
-35. 
+35. Leetcode Problem
+    - Problem No. 540 : Single Element in a Sorted Array
