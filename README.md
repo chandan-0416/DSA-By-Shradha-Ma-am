@@ -160,3 +160,7 @@ Data Structures and Algorithms with C++ || GitHub repository || Lecture Numbers,
 # Lecture-20 (24-05-2025)
 35. Leetcode Problem
     - Problem No. 540 : Single Element in a Sorted Array
+
+# Lecture-21 (25-05-2025)
+36. Binary Search
+    - Book Allocation or Allocate Books Problem
