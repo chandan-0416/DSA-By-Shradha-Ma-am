@@ -164,3 +164,7 @@ Data Structures and Algorithms with C++ || GitHub repository || Lecture Numbers,
 # Lecture-21 (25-05-2025)
 36. Binary Search
     - Book Allocation or Allocate Books Problem
+
+# Lecture-22 (26-05-2025)
+37. Binary Search
+     - Painter's Partition Problem 
