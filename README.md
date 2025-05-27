@@ -168,3 +168,7 @@ Data Structures and Algorithms with C++ || GitHub repository || Lecture Numbers,
 # Lecture-22 (26-05-2025)
 37. Binary Search
      - Painter's Partition Problem 
+
+# Lecture-23 (27-05-2025)
+38. Binary Search
+    - Aggressive Cows Problem
