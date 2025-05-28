@@ -172,3 +172,7 @@ Data Structures and Algorithms with C++ || GitHub repository || Lecture Numbers,
 # Lecture-23 (27-05-2025)
 38. Binary Search
     - Aggressive Cows Problem
+
+# Lecture-24 (28-05-2025)
+39. Sorting Algorithms
+      - Bubble Sort, Selection Sort & Insertion Sort
