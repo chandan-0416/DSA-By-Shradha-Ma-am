@@ -176,3 +176,8 @@ Data Structures and Algorithms with C++ || GitHub repository || Lecture Numbers,
 # Lecture-24 (28-05-2025)
 39. Sorting Algorithms
       - Bubble Sort, Selection Sort & Insertion Sort
+
+# Lecture-25 (29-05-2025)
+40. DNF Sorting Algorithm
+      - Sort an Array of 0s, 1s & 2s
+      - Leetcode problem No. 75
