@@ -181,3 +181,6 @@ Data Structures and Algorithms with C++ || GitHub repository || Lecture Numbers,
 40. DNF Sorting Algorithm
       - Sort an Array of 0s, 1s & 2s
       - Leetcode problem No. 75
+
+# Lecture-26 (29-05-2025)
+41. Merge Sorted Arrays Problem and Next Permutation Problem 
