@@ -184,3 +184,6 @@ Data Structures and Algorithms with C++ || GitHub repository || Lecture Numbers,
 
 # Lecture-26 (29-05-2025)
 41. Merge Sorted Arrays Problem and Next Permutation Problem 
+
+# Lecture-27 (30-05-2025)
+42. C++ STL Complete Tutorial | Standard Template Library
