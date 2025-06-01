@@ -182,8 +182,11 @@ Data Structures and Algorithms with C++ || GitHub repository || Lecture Numbers,
       - Sort an Array of 0s, 1s & 2s
       - Leetcode problem No. 75
 
-# Lecture-26 (29-05-2025)
+# Lecture-26 (30-05-2025)
 41. Merge Sorted Arrays Problem and Next Permutation Problem 
 
-# Lecture-27 (30-05-2025)
+# Lecture-27 (31-05-2025)
 42. C++ STL Complete Tutorial | Standard Template Library
+
+# Lecture-28 (01-05-2015)
+43. Strings & Character Arrays in C++
