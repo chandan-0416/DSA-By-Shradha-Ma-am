@@ -188,5 +188,8 @@ Data Structures and Algorithms with C++ || GitHub repository || Lecture Numbers,
 # Lecture-27 (31-05-2025)
 42. C++ STL Complete Tutorial | Standard Template Library
 
-# Lecture-28 (01-05-2015)
+# Lecture-28 (01-06-2015)
 43. Strings & Character Arrays in C++
+
+# Lecture-29 (02-06-2025)
+44. Valid Palindrome & Remove all Occurrences
