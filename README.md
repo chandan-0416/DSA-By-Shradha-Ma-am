@@ -193,3 +193,5 @@ Data Structures and Algorithms with C++ || GitHub repository || Lecture Numbers,
 
 # Lecture-29 (02-06-2025)
 44. Valid Palindrome & Remove all Occurrences
+
+# Lecture-30 (03-06-2025)
