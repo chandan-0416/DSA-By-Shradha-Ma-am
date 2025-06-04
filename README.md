@@ -195,3 +195,7 @@ Data Structures and Algorithms with C++ || GitHub repository || Lecture Numbers,
 44. Valid Palindrome & Remove all Occurrences
 
 # Lecture-30 (03-06-2025)
+45. Permutation in String 
+
+# Lecture-31 (04-06-2025)
+46. Reverse Words in String
