@@ -199,3 +199,7 @@ Data Structures and Algorithms with C++ || GitHub repository || Lecture Numbers,
 
 # Lecture-31 (04-06-2025)
 46. Reverse Words in String
+
+# Lecture-32 (05-06-2025)
+47. Leetcode Problem No. 443
+      - String Compression problem
