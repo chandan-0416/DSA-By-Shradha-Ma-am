@@ -1,0 +1,1 @@
+//Euclid's Algorithm | Sieve of Eratosthenes | Modular Arithmetics

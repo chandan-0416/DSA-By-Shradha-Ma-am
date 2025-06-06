@@ -203,3 +203,6 @@ Data Structures and Algorithms with C++ || GitHub repository || Lecture Numbers,
 # Lecture-32 (05-06-2025)
 47. Leetcode Problem No. 443
       - String Compression problem
+
+# Lecture-33 (06-06-2025)
+48. Euclid's Algorithm | Sieve of Eratosthenes | Modular Arithmetics
