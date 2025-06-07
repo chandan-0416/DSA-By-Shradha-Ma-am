@@ -206,3 +206,6 @@ Data Structures and Algorithms with C++ || GitHub repository || Lecture Numbers,
 
 # Lecture-33 (06-06-2025)
 48. Euclid's Algorithm | Sieve of Eratosthenes | Modular Arithmetics
+
+# Lecture-34 (07-06-2025)
+49. 2D Arrays in C++ 
