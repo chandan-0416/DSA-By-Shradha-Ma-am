@@ -209,3 +209,7 @@ Data Structures and Algorithms with C++ || GitHub repository || Lecture Numbers,
 
 # Lecture-34 (07-06-2025)
 49. 2D Arrays in C++ 
+
+# Lecture-35 (08-06-2025)
+50. Leetcode problem No. 240
+      - 2D Matrix Variation 
