@@ -213,3 +213,7 @@ Data Structures and Algorithms with C++ || GitHub repository || Lecture Numbers,
 # Lecture-35 (08-06-2025)
 50. Leetcode problem No. 240
       - 2D Matrix Variation 
+
+# Lecture-36 (09-06-2025)
+51. Leetcode Problem No. 54
+    -  Spiral Matrix | 2D Arrays
