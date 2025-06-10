@@ -175,15 +175,18 @@ Data Structures and Algorithms with C++ || GitHub repository || Lecture Numbers,
 
 # Lecture-24 (28-05-2025)
 39. Sorting Algorithms
-      - Bubble Sort, Selection Sort & Insertion Sort
+      - Bubble Sort, Selection Sort & Insertion Sort | Ascending and Descending order
 
 # Lecture-25 (29-05-2025)
-40. DNF Sorting Algorithm
-      - Sort an Array of 0s, 1s & 2s
-      - Leetcode problem No. 75
+40.  Sorted Array with 0s, 1s & 2s
+      - Brute force approach, optimized approach, most optimal approach
+      - Leetcode problem No. 75 | Sort Colors
+      - Dutch National Flag(DNF) Algo - Sorting Algorithm (most optimal approach)
 
 # Lecture-26 (30-05-2025)
-41. Merge Sorted Arrays Problem and Next Permutation Problem 
+41. Leetcode Problem
+       - Leetcode Problem No. 88 | Merge Sorted Arrays Problem and Next Permutation Problem 
+       - Leetcode Problem No. 31 | Next Permutation Problem
 
 # Lecture-27 (31-05-2025)
 42. C++ STL Complete Tutorial | Standard Template Library
@@ -217,3 +220,6 @@ Data Structures and Algorithms with C++ || GitHub repository || Lecture Numbers,
 # Lecture-36 (09-06-2025)
 51. Leetcode Problem No. 54
     -  Spiral Matrix | 2D Arrays
+
+# Lecture-37 (10-06-2025)
+52. Two Sum | Find Duplicate | Find Repeating & Missing Values | Hashing Problems
