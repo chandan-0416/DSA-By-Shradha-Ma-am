@@ -185,7 +185,7 @@ Data Structures and Algorithms with C++ || GitHub repository || Lecture Numbers,
 
 # Lecture-26 (30-05-2025)
 41. Leetcode Problem
-       - Leetcode Problem No. 88 | Merge Sorted Arrays Problem and Next Permutation Problem 
+       - Leetcode Problem No. 88 | Merge Sorted Arrays Problem
        - Leetcode Problem No. 31 | Next Permutation Problem
 
 # Lecture-27 (31-05-2025)
@@ -223,3 +223,6 @@ Data Structures and Algorithms with C++ || GitHub repository || Lecture Numbers,
 
 # Lecture-37 (10-06-2025)
 52. Two Sum | Find Duplicate | Find Repeating & Missing Values | Hashing Problems
+
+# Lecture-38 (11-06-2025)
+56. 3 Sum | Brute, Better & Optimized Approach with Codes | Leetcode 15
