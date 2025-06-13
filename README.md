@@ -228,4 +228,7 @@ Data Structures and Algorithms with C++ || GitHub repository || Lecture Numbers,
 56. 3 Sum | Brute, Better & Optimized Approach with Codes | Leetcode 15
 
 # Lecture-39 (12-06-2025)
-57. 4 Sum Problem | Optimal Approach | DSA Series by Shradha Ma'am
+57. 4 Sum Problem | Optimal Approach
+
+# Lecture-40 (13-06-2025)
+57. Subarray Sum Equals K | Brute-Better-Optimal approach
