@@ -232,3 +232,6 @@ Data Structures and Algorithms with C++ || GitHub repository || Lecture Numbers,
 
 # Lecture-40 (13-06-2025)
 57. Subarray Sum Equals K | Brute-Better-Optimal approach
+
+# Lecture-41 (14-06-2025)
+58. Recursion Tutorial - Basics to Advanced | Part 1
