@@ -180,19 +180,23 @@ Data Structures and Algorithms with C++ || GitHub repository || Lecture Numbers,
 # Lecture-25 (29-05-2025)
 40.  Sorted Array with 0s, 1s & 2s
       - Brute force approach, optimized approach, most optimal approach
-      - Leetcode problem No. 75 | Sort Colors
+      - Leetcode problem No. 75 : Sort Colors
       - Dutch National Flag(DNF) Algo - Sorting Algorithm (most optimal approach)
 
 # Lecture-26 (30-05-2025)
 41. Leetcode Problem
-       - Leetcode Problem No. 88 | Merge Sorted Arrays Problem
-       - Leetcode Problem No. 31 | Next Permutation Problem
+       - Leetcode Problem No. 88 : Merge Sorted Arrays Problem
+       - Leetcode Problem No. 31 : Next Permutation Problem
 
 # Lecture-27 (31-05-2025)
 42. C++ STL Complete Tutorial | Standard Template Library
 
 # Lecture-28 (01-06-2015)
-43. Strings & Character Arrays in C++
+43. Strings & Character Arrays
+      - Introduction to string
+      - C++ STL Strings
+      - strings - input / output / operations / loops
+      - Leetcode problem No. 344 : Reverse string
 
 # Lecture-29 (02-06-2025)
 44. Valid Palindrome & Remove all Occurrences
@@ -235,3 +239,6 @@ Data Structures and Algorithms with C++ || GitHub repository || Lecture Numbers,
 
 # Lecture-41 (14-06-2025)
 58. Recursion Tutorial - Basics to Advanced | Part 1
+
+# Lecture-42 (15-06-2025)
+59. Recursion Part 2 : Fibonacci numbers problem, Binary search problem, Find if array sorted problem
