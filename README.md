@@ -242,3 +242,6 @@ Data Structures and Algorithms with C++ || GitHub repository || Lecture Numbers,
 
 # Lecture-42 (15-06-2025)
 59. Recursion Part 2 : Fibonacci numbers problem, Binary search problem, Find if array sorted problem
+
+# Lecture-43 (16-06-2025)
+60. Recursion Part 3 : Backtracking in Detail | Print all Subsets | Subsets II
