@@ -199,10 +199,13 @@ Data Structures and Algorithms with C++ || GitHub repository || Lecture Numbers,
       - Leetcode problem No. 344 : Reverse string
 
 # Lecture-29 (02-06-2025)
-44. Valid Palindrome & Remove all Occurrences
+44. Leetcode Problems 
+      - Leetcode Problem No. 125 : Valid Palindrome  using Two Pointer Approach
+      - Leetcode Problem No. 1910 : Remove All Occurrences of a Substring
 
 # Lecture-30 (03-06-2025)
-45. Permutation in String 
+45. Leetcode Problems 
+      - Leetcode Problem No. 567 : Permutation in String
 
 # Lecture-31 (04-06-2025)
 46. Reverse Words in String
