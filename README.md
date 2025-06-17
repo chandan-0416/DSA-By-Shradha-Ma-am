@@ -245,3 +245,6 @@ Data Structures and Algorithms with C++ || GitHub repository || Lecture Numbers,
 
 # Lecture-43 (16-06-2025)
 60. Recursion Part 3 : Backtracking in Detail | Print all Subsets | Subsets II
+
+# Lecture-44 (17-06-2025)
+61. Permutations of an Array/String | Recursion & Backtracking
