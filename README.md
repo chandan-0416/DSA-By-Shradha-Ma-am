@@ -204,11 +204,12 @@ Data Structures and Algorithms with C++ || GitHub repository || Lecture Numbers,
       - Leetcode Problem No. 1910 : Remove All Occurrences of a Substring
 
 # Lecture-30 (03-06-2025)
-45. Leetcode Problems 
+45. Leetcode Problem
       - Leetcode Problem No. 567 : Permutation in String
 
 # Lecture-31 (04-06-2025)
-46. Reverse Words in String
+46. Leetcode Problem
+       - Leetcode Problem No. 151 : Reverse Words in String
 
 # Lecture-32 (05-06-2025)
 47. Leetcode Problem No. 443
@@ -251,3 +252,6 @@ Data Structures and Algorithms with C++ || GitHub repository || Lecture Numbers,
 
 # Lecture-44 (17-06-2025)
 61. Permutations of an Array/String | Recursion & Backtracking
+
+# Lecture-45 (18-06-2025)
+62. N-Queens Problem | using Backtracking | Leetcode Problem No. 51 - Hard
