@@ -212,11 +212,14 @@ Data Structures and Algorithms with C++ || GitHub repository || Lecture Numbers,
        - Leetcode Problem No. 151 : Reverse Words in String
 
 # Lecture-32 (05-06-2025)
-47. Leetcode Problem No. 443
-      - String Compression problem
+47. Leetcode Problem
+      - Leetcode Problem No. 443 : String Compression
 
 # Lecture-33 (06-06-2025)
-48. Euclid's Algorithm | Sieve of Eratosthenes | Modular Arithmetics
+48. Maths for DSA
+    - Prime Numbers : check for number n
+    - Leetcode Problem No. 204 : Count Prime | To find out the prime No. in Range Using Optimized Approach - Sieve of Eratosthenes
+    - Digits in Number : count of digits, sum of digits, print digits
 
 # Lecture-34 (07-06-2025)
 49. 2D Arrays in C++ 
@@ -255,3 +258,6 @@ Data Structures and Algorithms with C++ || GitHub repository || Lecture Numbers,
 
 # Lecture-45 (18-06-2025)
 62. N-Queens Problem | using Backtracking | Leetcode Problem No. 51 - Hard
+
+# Lecture-46 (19-06-2025)
+63. Sudoku Solver Problem | using Backtracking | Leetcode Hard
