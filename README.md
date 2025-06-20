@@ -217,7 +217,7 @@ Data Structures and Algorithms with C++ || GitHub repository || Lecture Numbers,
 
 # Lecture-33 (06-06-2025)
 48. Maths for DSA
-    - Prime Numbers : check for number n
+    - Prime Numbers : check for number n 
     - Leetcode Problem No. 204 : Count Prime | To find out the prime No. in Range Using Optimized Approach - Sieve of Eratosthenes
     - Digits in Number : count of digits, sum of digits, print digits
 
@@ -261,3 +261,6 @@ Data Structures and Algorithms with C++ || GitHub repository || Lecture Numbers,
 
 # Lecture-46 (19-06-2025)
 63. Sudoku Solver Problem | using Backtracking | Leetcode Hard
+
+# Lecture-47 (20-06-2025)
+64. Rat in a Maze Problem | Backtracking
