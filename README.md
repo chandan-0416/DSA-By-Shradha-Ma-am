@@ -264,3 +264,6 @@ Data Structures and Algorithms with C++ || GitHub repository || Lecture Numbers,
 
 # Lecture-47 (20-06-2025)
 64. Rat in a Maze Problem | Backtracking
+
+# Lecture-48 (21-06-2025)
+65. Combination Sum Problem | Recursion & Backtracking
