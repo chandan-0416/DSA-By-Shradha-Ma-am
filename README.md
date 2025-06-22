@@ -267,3 +267,6 @@ Data Structures and Algorithms with C++ || GitHub repository || Lecture Numbers,
 
 # Lecture-48 (21-06-2025)
 65. Combination Sum Problem | Recursion & Backtracking
+
+# Lecture-49 (22-06-2025)
+66. Palindrome Partitioning Problem | Recursion & Backtracking
