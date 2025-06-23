@@ -270,3 +270,6 @@ Data Structures and Algorithms with C++ || GitHub repository || Lecture Numbers,
 
 # Lecture-49 (22-06-2025)
 66. Palindrome Partitioning Problem | Recursion & Backtracking
+
+# Lecture-50 (23-06-2025)
+67. Merge Sort Algorithm | Recursion & Backtracking
