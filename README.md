@@ -273,3 +273,6 @@ Data Structures and Algorithms with C++ || GitHub repository || Lecture Numbers,
 
 # Lecture-50 (23-06-2025)
 67. Merge Sort Algorithm | Recursion & Backtracking
+
+# Lecture-51 (24-06-2025)
+68. Quick Sort Algorithm 
