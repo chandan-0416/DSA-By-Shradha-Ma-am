@@ -279,3 +279,6 @@ Data Structures and Algorithms with C++ || GitHub repository || Lecture Numbers,
 
 # Lecture-52 (25-06-2025)
 69. Count Inversions Problem | Brute and Optimal
+
+# Lecture-53 (26-06-2025)
+70. KNIGHTS TOUR Problem - Backtracking | Leetcode 2596
