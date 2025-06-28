@@ -284,4 +284,7 @@ Data Structures and Algorithms with C++ || GitHub repository || Lecture Numbers,
 70. KNIGHTS TOUR Problem - Backtracking | Leetcode 2596
 
 # Lecture-54 (27-06-2025)
-71. OOPs Tutorial in One Shot | Object Oriented Programming 
+71. OOPs Tutorial in One Shot | Object Oriented Programming
+
+# Lecture-55 (28-06-2025)
+72. Introduction to Linked List 
