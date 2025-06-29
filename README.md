@@ -220,6 +220,13 @@ Data Structures and Algorithms with C++ || GitHub repository || Lecture Numbers,
     - Prime Numbers : check for number n 
     - Leetcode Problem No. 204 : Count Prime | To find out the prime No. in Range Using Optimized Approach - Sieve of Eratosthenes
     - Digits in Number : count of digits, sum of digits, print digits
+    - Armstrong Number : Problems
+    - Greatest Common Divisor (GCD/HCF) : Euclid's Algorithm, problems
+    - Lowest Common Multiple (LCM) : Problems
+    - Leetcode Problem No. 7 : Reverse Integer
+    - Leetcode Problem No. 9 : Palindrome Number
+    - Modulo Arithmetics : properties
+    - Power Exponentiation
 
 # Lecture-34 (07-06-2025)
 49. 2D Arrays in C++ 
@@ -287,4 +294,7 @@ Data Structures and Algorithms with C++ || GitHub repository || Lecture Numbers,
 71. OOPs Tutorial in One Shot | Object Oriented Programming
 
 # Lecture-55 (28-06-2025)
-72. Introduction to Linked List 
+72. Introduction to Linked List
+
+# Lecture-56 (29-05-2025)
+73. Reverse a Linked List 
