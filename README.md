@@ -298,3 +298,6 @@ Data Structures and Algorithms with C++ || GitHub repository || Lecture Numbers,
 
 # Lecture-56 (29-05-2025)
 73. Reverse a Linked List 
+
+# Lecture-57 (30-05-2025)
+74. Middle of a Linked List
