@@ -301,3 +301,6 @@ Data Structures and Algorithms with C++ || GitHub repository || Lecture Numbers,
 
 # Lecture-57 (30-05-2025)
 74. Middle of a Linked List
+
+# Lecture-58 (01-06-2025)
+75. Detect & Remove Cycle in Linked List 
