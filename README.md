@@ -296,11 +296,14 @@ Data Structures and Algorithms with C++ || GitHub repository || Lecture Numbers,
 # Lecture-55 (28-06-2025)
 72. Introduction to Linked List
 
-# Lecture-56 (29-05-2025)
+# Lecture-56 (29-06-2025)
 73. Reverse a Linked List 
 
-# Lecture-57 (30-05-2025)
+# Lecture-57 (30-06-2025)
 74. Middle of a Linked List
 
-# Lecture-58 (01-06-2025)
+# Lecture-58 (01-07-2025)
 75. Detect & Remove Cycle in Linked List 
+
+# Lecture-59 (02-07-2025)
+76. Merge Two Sorted Lists 
