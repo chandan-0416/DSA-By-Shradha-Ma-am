@@ -306,4 +306,7 @@ Data Structures and Algorithms with C++ || GitHub repository || Lecture Numbers,
 75. Detect & Remove Cycle in Linked List 
 
 # Lecture-59 (02-07-2025)
-76. Merge Two Sorted Lists 
+76. Merge Two Sorted Lists
+
+# Lecture-60 (03-07-2025)
+77. Copy List with Random Pointer
