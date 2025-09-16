@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-//Eg.1(While-loop)
+//Eg.1. Print number from 1 to 50. | (While-loop)
 
 // int main(){
 //   int n=50;

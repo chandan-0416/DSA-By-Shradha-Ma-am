@@ -1,6 +1,10 @@
 # DSA-By-Shradha-Ma-am
 Data Structures and Algorithms with C++ || GitHub repository || Lecture Numbers, Date, Topics Name, Leetcode Problems || Starting Date: 11-04-2025
 
+Run code in VS code Editor:
+1.  g++ -o demo demo.cpp 
+2. ./code.exe
+
 # Lecture-1 (11-04-2025) 
 1. Flow Chart
 2. PseudoCode
@@ -229,7 +233,18 @@ Data Structures and Algorithms with C++ || GitHub repository || Lecture Numbers,
     - Power Exponentiation
 
 # Lecture-34 (07-06-2025)
-49. 2D Arrays in C++ 
+49. 2D Arrays in C++
+    - 2D array define, initialize
+    - How to access the element from martrix? => track the Cell
+    - Loops on 2D Array : 
+         - How to print all elements of matrix(as 2D)?
+         - How to take input of 2D Array elements?
+    - 2D Array in Memory     
+    - Linear Search in 2D Array 
+          - Find a key=8 in 2D array (boolean)
+          - Maximum Row Sum
+          - Diagonal Sum
+    - 2D Vector
 
 # Lecture-35 (08-06-2025)
 50. Leetcode problem No. 240

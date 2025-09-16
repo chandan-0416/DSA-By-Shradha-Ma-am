@@ -14,7 +14,7 @@ using namespace std;
 //     return 0;
 // }
 
-//Eg.2
+//Eg.2 (Eligible to Vote)
 
 // int main(){
 // int age;
@@ -28,7 +28,7 @@ using namespace std;
 // return 0;
 // }
 
-//Eg.3
+//Eg.3 (Even and Odd Number)
 
 // int main(){
 //     int n;
