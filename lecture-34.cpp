@@ -146,7 +146,7 @@ using namespace std;
 //7. 2D Vector
 
 int main(){
-    vector<vector<int>> mat = {{1,2,3},{4,5,6,10,11},{7,8,9}}; // 3*3
+    vector<vector<int>> mat = {{1,2,3},{4,5,6,10,11},{7,8,9,24}}; // 3*3
 
     // rows => mat.size();
     // cols => mat[i].size();
