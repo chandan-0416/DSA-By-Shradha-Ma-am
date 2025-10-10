@@ -250,11 +250,14 @@ Run code in VS code Editor:
       - Leetcode Problem No. 240 : Search in 2D Matrix - Variation 2
 
 # Lecture-36
-51. Leetcode Problem No. 54
-    -  Spiral Matrix | 2D Arrays
+51. Leetcode Problem
+    - Leetcode Problem No. 54 : Spiral Matrix
 
 # Lecture-37
-52. Two Sum | Find Duplicate | Find Repeating & Missing Values | Hashing Problems
+52. Hashing Concepts | Leetcode Problem
+      - Leetcode Problem No. 1 : Two Sum
+      - Leetcode Problem No. 2965 : Find Missing and Repeated Values
+      - Leetcode Problem No. 287 : Find the Duplicate Number
 
 # Lecture-38
 56. 3 Sum | Brute, Better & Optimized Approach with Codes | Leetcode 15
