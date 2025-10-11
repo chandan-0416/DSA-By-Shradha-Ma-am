@@ -260,7 +260,8 @@ Run code in VS code Editor:
       - Leetcode Problem No. 287 : Find the Duplicate Number
 
 # Lecture-38
-56. 3 Sum | Brute, Better & Optimized Approach with Codes | Leetcode 15
+56.  Leetcode Problem
+       - Leetcode Problem No. 15 : 3Sum | Brute force, Better & Optimized Approach
 
 # Lecture-39
 57. 4 Sum Problem | Optimal Approach

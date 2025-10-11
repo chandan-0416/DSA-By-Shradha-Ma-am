@@ -3,7 +3,9 @@
 #include<iostream>
 #include<vector>
 #include<map>
+#include<set>
 #include<unordered_map>
+#include<unordered_set>
 using namespace std;
 
 //1. 
@@ -196,3 +198,50 @@ using namespace std;
 // }
 
 
+//12.  Set
+
+// int main(){
+//     set<int> s;
+
+//     s.insert(1);
+//     s.insert(2);
+//     s.insert(3);
+//     s.insert(4);
+//     s.insert(5);
+
+//   //  cout << s.size() << endl;
+//     cout << "lower bound : " << *(s.lower_bound(4)) << endl;
+//     cout << "upper bound : " << *(s.upper_bound(4)) << endl;
+    
+
+//     for(auto val : s){
+//         cout << val << " "; 
+//     }
+//     cout << endl;
+
+//       return 0;
+// }
+
+
+//13. multi set
+int main(){
+    unordered_set<int> s;
+
+    s.insert(1);
+    s.insert(2);
+    s.insert(3);
+    s.insert(4);
+    s.insert(5);
+
+  //  cout << s.size() << endl;
+    cout << "lower bound : " << *(s.lower_bound(4)) << endl;
+    cout << "upper bound : " << *(s.upper_bound(4)) << endl;
+    
+
+    for(auto val : s){
+        cout << val << " "; 
+    }
+    cout << endl;
+
+      return 0;
+}
