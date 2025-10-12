@@ -45,7 +45,15 @@
         "xstring": "cpp",
         "xtr1common": "cpp",
         "xutility": "cpp",
-        "algorithm": "cpp"
+        "algorithm": "cpp",
+        "list": "cpp",
+        "map": "cpp",
+        "set": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "unordered_set": "cpp",
+        "xhash": "cpp",
+        "xtree": "cpp"
     },
     "editor.inlineSuggest.edits.renderSideBySide": "never",
     "editor.inlineSuggest.edits.allowCodeShifting": "never",

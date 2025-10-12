@@ -254,23 +254,32 @@ Run code in VS code Editor:
     - Leetcode Problem No. 54 : Spiral Matrix
 
 # Lecture-37
-52. Hashing Concepts | Leetcode Problem
-      - Leetcode Problem No. 1 : Two Sum
-      - Leetcode Problem No. 2965 : Find Missing and Repeated Values
-      - Leetcode Problem No. 287 : Find the Duplicate Number
+52. Hashing Concepts | unordered_map, unordered_set | Leetcode Problem
+      - Leetcode Problem No. 1 : Two Sum | Hashing Approach
+      - Leetcode Problem No. 2965 : Find Missing and Repeated Values 
+      - Leetcode Problem No. 287 : Find the Duplicate Number | Slow - fast Pointer Approach
 
 # Lecture-38
 56.  Leetcode Problem
-       - Leetcode Problem No. 15 : 3Sum | Brute force, Better & Optimized Approach
+       - Leetcode Problem No. 15 : 3Sum | Brute force, Hashing, Two pointer Approach
 
 # Lecture-39
-57. 4 Sum Problem | Optimal Approach
+57.  Leetcode Problem
+       - Leetcode Problem No. 18 : 4Sum | Brute force, Better & Optimized Approach 
 
 # Lecture-40
-57. Subarray Sum Equals K | Brute-Better-Optimal approach
+57. Leetcode Problem
+       - Leetcode Problem No. 560 : SubArray Sum Equals K | Brute force, Better & Optimized Approach 
 
 # Lecture-41
-58. Recursion Tutorial - Basics to Advanced | Part 1
+58. Recursion Part- 1
+       - Concept of Recursion, What happen in Memory
+       - Recursion tree, Backtracking
+       - Time Complexity : Recurrence Relation 
+       - Space Complexity
+       - Problem No. 1 : Sum of N nums with recursion
+       - Problem No. 2 : Calculate N factorial
+       - Problem No. 3 : Print N number
 
 # Lecture-42
 59. Recursion Part 2 : Fibonacci numbers problem, Binary search problem, Find if array sorted problem
