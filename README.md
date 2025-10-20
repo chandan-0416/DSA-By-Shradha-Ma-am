@@ -282,10 +282,16 @@ Run code in VS code Editor:
        - Problem No. 3 : Print N number
 
 # Lecture-42
-59. Recursion Part 2 : Fibonacci numbers problem, Binary search problem, Find if array sorted problem
+59. Recursion Part- 2 | Leetcode Problem
+       - Leetcode Problem No. 509 : Fibonacci Number
+       - Check if Array is Sorted by Recursion
+       - Leetcode Problem No. 704 : Recursive Binary Search
 
 # Lecture-43
-60. Recursion Part 3 : Backtracking in Detail | Print all Subsets | Subsets II
+60. Recursion Part- 3 | Backtracking with Recursion | Leetcode Problem 
+      - Print all Subsets
+      - Leetcode Problem No. 78 : Subsets-1, unique element 
+      - Leetcode Problem No. 90 : Subset-2, Duplicate element
 
 # Lecture-44
 61. Permutations of an Array/String | Recursion & Backtracking

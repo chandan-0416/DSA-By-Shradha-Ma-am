@@ -1,1 +1,18 @@
-// Recursion Part 2 : Fibonacci numbers problem, Binary search problem, Find if array sorted problem
+#include <iostream>
+#include<vector>
+using namespace std;
+
+//Eg.1 : check if array is sorted using Recursion | Binary search problem 
+ bool isSorted(vector<int> arr, int n){
+        if(n == 0 || n == 1){
+         return true;
+        }
+
+        return arr[n-1] >= arr[n-2] && isSorted(arr, n-1);
+ }
+
+ int main(){
+    vector<int> arr = {1,2,3,4,5,6,9};
+      cout << isSorted(arr, arr.size()) << endl;
+    return 0;
+ }
