@@ -294,16 +294,20 @@ Run code in VS code Editor:
       - Leetcode Problem No. 90 : Subset-2, Duplicate element
 
 # Lecture-44
-61. Permutations of an Array/String | Recursion & Backtracking
+61. Leetcode Problem | Recursion & Backtracking
+       - Leetcode Problem No. 46 : Permutations of an Array/ String
 
 # Lecture-45
-62. N-Queens Problem | using Backtracking | Leetcode Problem No. 51 - Hard
+62. Leetcode Problem | Recursion & Backtracking
+       - Leetcode Problem No. 51 : N-Queens Problem | chess board | Hard
 
 # Lecture-46
-63. Sudoku Solver Problem | using Backtracking | Leetcode Hard
+63. Leetcode Problem | 
+       - Leetcode Problem No. 37 : Sudoku Solver Problem | Hard
 
 # Lecture-47
-64. Rat in a Maze Problem | Backtracking
+64. Recursion & Backtracking
+      - Rat in a Maze Problem | Optimized
 
 # Lecture-48
 65. Combination Sum Problem | Recursion & Backtracking
