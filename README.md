@@ -302,7 +302,7 @@ Run code in VS code Editor:
        - Leetcode Problem No. 51 : N-Queens Problem | chess board | Hard
 
 # Lecture-46
-63. Leetcode Problem | 
+63. Leetcode Problem | Recursion & Backtracking
        - Leetcode Problem No. 37 : Sudoku Solver Problem | Hard
 
 # Lecture-47
@@ -310,10 +310,12 @@ Run code in VS code Editor:
       - Rat in a Maze Problem | Optimized
 
 # Lecture-48
-65. Combination Sum Problem | Recursion & Backtracking
+65. Leetcode Problem | Recursion & Backtracking
+       - Leetcode Problem No. 39 : Combination Sum Problem
 
 # Lecture-49
-66. Palindrome Partitioning Problem | Recursion & Backtracking
+66. Leetcode Problem | Recursion & Backtracking
+       - Leetcode Problem No. 131 : Palindrome Partitioning
 
 # Lecture-50
 67. Merge Sort Algorithm | Recursion & Backtracking
