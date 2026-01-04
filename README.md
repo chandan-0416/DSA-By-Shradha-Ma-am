@@ -1,5 +1,5 @@
 # DSA-By-Shradha-Ma-am
-Data Structures and Algorithms with C++ || GitHub repository || Lecture Numbers, Topics Name, Leetcode Problems || Starting Date: 11-04-2025
+Data Structures and Algorithms in C++ || GitHub repository || Lecture Numbers, Topics Name, Leetcode Problems || Starting Date: 11-04-2025
 
 Run code in VS code Editor:
 1.  g++ -o demo demo.cpp 
@@ -330,7 +330,15 @@ Run code in VS code Editor:
 70. KNIGHTS TOUR Problem - Backtracking | Leetcode 2596
 
 # Lecture-54
-71. OOPs Tutorial in One Shot | Object Oriented Programming
+71. OOPs (Object Oriented Programming System)
+- Class and Object
+- Access Modifiers
+- Pillars of OPPs : Encapsulation, Inheritance, Polymorphism, Abstraction and their types
+- Use cases of OOPs
+- Constructor, this pointer
+- shallow and deep copy
+- Destructor
+- Static Keyword
 
 # Lecture-55 
 72. Introduction to Linked List
