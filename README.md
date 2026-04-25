@@ -342,9 +342,14 @@ Run code in VS code Editor:
 
 # Lecture-55 
 72. Introduction to Linked List
+- Linked List, node
+- Implementation of the linked list
+- Functions of LL : push_front(), push_back(), pop_front(), pop_back()
+- insert(), print(), search()
 
 # Lecture-56
-73. Reverse a Linked List 
+73. Linked List
+- Leetcode problem No. 206 | Reverse a Linked List 
 
 # Lecture-57 
 74. Middle of a Linked List
