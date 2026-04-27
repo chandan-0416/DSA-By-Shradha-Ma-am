@@ -349,16 +349,20 @@ Run code in VS code Editor:
 
 # Lecture-56
 73. Linked List
-- Leetcode problem No. 206 | Reverse a Linked List 
+- Leetcode problem No. 206 : Reverse a Linked List 
 
 # Lecture-57 
-74. Middle of a Linked List
+74. Linked List
+- Leetcode problem No. 876 : Middle of a Linked List
 
 # Lecture-58
-75. Detect & Remove Cycle in Linked List 
+75. Linked List 
+- Leetcode problem No. 141 : Detect & Remove Cycle in Linked List 
+- Leetcode problem No. 142 : Linked list Cycle-2
 
 # Lecture-59
-76. Merge Two Sorted Lists
+76. Linked List
+- Leetcode problem No. 21 : Merge Two Sorted Lists
 
 # Lecture-60
 77. Copy List with Random Pointer
