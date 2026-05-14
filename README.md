@@ -1,9 +1,14 @@
 # DSA-By-Shradha-Ma-am
 Data Structures and Algorithms in C++ || GitHub repository || Lecture Numbers, Topics Name, Leetcode Problems || Starting Date: 11-04-2025
 
-Run code in VS code Editor:
+# Run code in VS code Editor:
 1.  g++ -o demo demo.cpp 
 2. ./code.exe
+
+# GitHub - update
+- git add . 
+- git commit -m " updated Lectures"
+- git push origin main
 
 # Lecture-1
 1. Flow Chart
@@ -372,8 +377,8 @@ Run code in VS code Editor:
 78. Doubly Linked List
 - concepts of Doubly linked list
 - implimentation from scratch Pseudocode as well as code
-- functionality in DLL : push_front(), push_back(), pop_front(), pop_back()
-- print() functionality
+- functions in DLL : push_front(), push_back(), pop_front(), pop_back()
+- print() function
 
 # Lecture-62
 79. Circular Linked List
@@ -393,5 +398,18 @@ Run code in VS code Editor:
 - Implimentation : Stack using Arrays / Vector, Stack usnig Linked List, Stack using C++ STL
 
 # Lecture-67
-84. 
+84. Stack Problem
+- Leetcode problem No. 20 : Valid Parentheses
 
+# Lecture-68
+85. Stack Problem
+- Stock Span problem
+
+# Lecture-69
+86. Stack Problem
+- Next Greater Element
+- Leetcode problem No. 496 : Next Greater Element
+
+# Lecture-70
+87. stack problem
+- Previous Smaller Element
