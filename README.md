@@ -365,4 +365,33 @@ Run code in VS code Editor:
 - Leetcode problem No. 21 : Merge Two Sorted Lists
 
 # Lecture-60
-77. Copy List with Random Pointer
+77. Linked List
+- Leetcode problem No. 138 : Copy List with Random Pointer
+
+# Lecture-61
+78. Doubly Linked List
+- concepts of Doubly linked list
+- implimentation from scratch Pseudocode as well as code
+- functionality in DLL : push_front(), push_back(), pop_front(), pop_back()
+- print() functionality
+
+# Lecture-62
+79. Circular Linked List
+
+# Lecture-63
+80. Flatten a Doubly LL
+
+# Lecture-64
+81. Reverse Nodes in K-Group
+
+# Lecture-65
+82. Swap Nodes in Paris
+
+# Lecture-66
+83. Stacks Data Structure
+- Introduction to Stacks, Major functions : push, pop, top
+- Implimentation : Stack using Arrays / Vector, Stack usnig Linked List, Stack using C++ STL
+
+# Lecture-67
+84. 
+
