@@ -413,3 +413,30 @@ Data Structures and Algorithms in C++ || GitHub repository || Lecture Numbers, T
 # Lecture-70
 87. stack problem
 - Previous Smaller Element
+
+# Lecture-71
+88. Stack Problem
+- Leetcode problem No. 155 | Design a Min Stack
+
+# Lecture-72
+89. Stack Problem
+- Leetcode problem No. 84 | Largest Rectangle in Histogram
+
+# Lecture-73
+90. Stack Problem
+- Next Greater Element - 2
+
+# Lecture-74
+91. Stack Problem
+- Trapping Rainwater Problem
+
+# Lecture-75
+92. Stack Problem
+- The Celebrity Problem
+
+# Lecture-76
+93. Doubly Linked List
+- Leetcode problem No. 146 | Implement LRU Cache 
+
+# Lecture-77
+94. Queue Data Structure
