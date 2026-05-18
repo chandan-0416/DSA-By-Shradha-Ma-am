@@ -395,7 +395,7 @@ Data Structures and Algorithms in C++ || GitHub repository || Lecture Numbers, T
 # Lecture-66
 83. Stacks Data Structure
 - Introduction to Stacks, Major functions : push, pop, top
-- Implimentation : Stack using Arrays / Vector, Stack usnig Linked List, Stack using C++ STL
+- Implementation : Stack using Arrays / Vector, Stack usnig Linked List, Stack using C++ STL
 
 # Lecture-67
 84. Stack Problem
@@ -440,3 +440,32 @@ Data Structures and Algorithms in C++ || GitHub repository || Lecture Numbers, T
 
 # Lecture-77
 94. Queue Data Structure
+- what is Queue
+- Implementation of Queue using Linked List
+- Implementation of Queue using C++ STL 
+- what is Deque, Implemetation
+
+# Lecture-78
+95. Queue Data Structure
+- Circular Queue
+- Implementation, Functions, 
+
+# Lecture-79
+96. Queue Data Structure
+- Leetcode problem No. 225 | Implement stack using Queue
+- Leetcode problem No. 146 | Implement Queue using Stack
+
+# Lecture-80
+- Queue Data Structure
+- Leetcode problem No. 387 | First Unique Character in String
+
+# Lecture-81
+- Queue Data Structure
+- Sliding window Maximum
+
+# Lecture-82
+- Queue Data Structure
+- Gas Station | Leetcode : 134 I Greedy Approach
+
+# Lecture-83
+- Binary Tree Data Structure
