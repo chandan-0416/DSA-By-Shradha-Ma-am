@@ -456,16 +456,22 @@ Data Structures and Algorithms in C++ || GitHub repository || Lecture Numbers, T
 - Leetcode problem No. 146 | Implement Queue using Stack
 
 # Lecture-80
-- Queue Data Structure
+97. Queue Data Structure
 - Leetcode problem No. 387 | First Unique Character in String
 
 # Lecture-81
-- Queue Data Structure
+98. Queue Data Structure
 - Sliding window Maximum
 
 # Lecture-82
-- Queue Data Structure
+99. Queue Data Structure
 - Gas Station | Leetcode : 134 I Greedy Approach
 
 # Lecture-83
-- Binary Tree Data Structure
+100. Binary Tree Data Structure
+- What is Trees, Generic trees, Binary Trees
+- Traversal : post order, inorder, preorder, level order
+
+# Lecture-84
+101. Binary Tree
+- Height of a Tree
