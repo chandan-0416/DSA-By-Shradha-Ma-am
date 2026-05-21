@@ -460,8 +460,8 @@ Data Structures and Algorithms in C++ || GitHub repository || Lecture Numbers, T
 - Leetcode problem No. 387 | First Unique Character in String
 
 # Lecture-81
-98. Queue Data Structure
-- Sliding window Maximum
+98. Deque Data Structure
+- Leetcode problem No. 239 | Sliding window Maximum
 
 # Lecture-82
 99. Queue Data Structure
@@ -475,3 +475,10 @@ Data Structures and Algorithms in C++ || GitHub repository || Lecture Numbers, T
 # Lecture-84
 101. Binary Tree
 - Height of a Tree
+- Count of Nodes
+- Sum of Nodes
+
+# Lecture-85
+102.  Binary Tree Data Structure
+- Leetcode problem No. 100 | Identical Tree or Same Tree
+- Leetcode problem No. 572 | SunTree of Another Tree
