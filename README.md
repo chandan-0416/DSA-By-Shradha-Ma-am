@@ -479,6 +479,63 @@ Data Structures and Algorithms in C++ || GitHub repository || Lecture Numbers, T
 - Sum of Nodes
 
 # Lecture-85
-102.  Binary Tree Data Structure
+102. Binary Tree Data Structure
 - Leetcode problem No. 100 | Identical Tree or Same Tree
 - Leetcode problem No. 572 | SunTree of Another Tree
+
+# Lecture-86
+103. Binary Tree Data Structure
+- Leetcode problem No. 543 | Diameter of a Binary Tree
+
+# Lecture-87
+104. Binary Tree Data Structure
+- Top view of a Tree , By calculating the Horizontal Distance
+
+# Lecture-88
+105. Binary Tree Data Structure
+- Kth level of a Binary Tree
+
+# Lecture-89
+106. Binary Tree Data Structure
+- Leetcode problem No. 236 | Lowest Common Ancestor
+
+# Lecture-90
+# Lecture-91
+# Lecture-92
+# Lecture-93
+# Lecture-94
+# Lecture-95
+# Lecture-96
+# Lecture-97
+# Lecture-98
+# Lecture-99
+# Lecture-100
+# Lecture-101
+# Lecture-102
+# Lecture-103
+# Lecture-104
+# Lecture-105
+# Lecture-106
+# Lecture-107
+# Lecture-108
+
+# Lecture-109
+125. Graph
+- what is graph, vertex, branches, use cases
+- Types of Graph on the basis of Edge's direction and Edge weight
+- connected and dis-connected graph 
+- Adjacency List
+- Building a graph : Undirected and Unweighted graph
+- How to traverse the Graph : DFS and BFS
+
+# Lecture-110
+126. Graph
+- BFS Traversal (Breadth First Search), Implementation
+
+# Lecture-111
+127. Graph
+- DFS Traversal (Depth First Search), Implementation
+
+# Lecture-112
+128. Graph
+- Cycle Detection in Undirected graph using DFS
