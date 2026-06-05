@@ -465,7 +465,7 @@ Data Structures and Algorithms in C++ || GitHub repository || Lecture Numbers, T
 
 # Lecture-82
 99. Queue Data Structure
-- Gas Station | Leetcode : 134 I Greedy Approach
+- Leetcode problem No. 134 | Gas Station | Greedy Approach
 
 # Lecture-83
 100. Binary Tree Data Structure
@@ -539,3 +539,15 @@ Data Structures and Algorithms in C++ || GitHub repository || Lecture Numbers, T
 # Lecture-112
 128. Graph
 - Cycle Detection in Undirected graph using DFS
+
+# Lecture-113
+129. Graph
+- Cycle Detection in Undirected graph using BFS
+
+# Lecture-114
+130. Graph
+- Leetcode problem No. 200 | Numbers of Islands
+
+# Lecture-115
+131. Graph
+- Leetcode problem No. 994 | Rotting Oranges
