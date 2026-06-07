@@ -500,6 +500,9 @@ Data Structures and Algorithms in C++ || GitHub repository || Lecture Numbers, T
 - Leetcode problem No. 236 | Lowest Common Ancestor
 
 # Lecture-90
+107. Binary Tree Data Structure
+- Leetcode problem No. 105 | Construct Binary Tree from Preorder and Inorder Traversal
+
 # Lecture-91
 # Lecture-92
 # Lecture-93
@@ -551,3 +554,7 @@ Data Structures and Algorithms in C++ || GitHub repository || Lecture Numbers, T
 # Lecture-115
 131. Graph
 - Leetcode problem No. 994 | Rotting Oranges
+
+# Lecture-116
+132. Graph
+- Cycle Detection in directed graph using DFS
