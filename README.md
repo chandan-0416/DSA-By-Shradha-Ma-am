@@ -504,26 +504,79 @@ Data Structures and Algorithms in C++ || GitHub repository || Lecture Numbers, T
 - Leetcode problem No. 105 | Construct Binary Tree from Preorder and Inorder Traversal
 
 # Lecture-91
+108. Binary Tree Data Structure
+- Tranform to Sum Tree
+
 # Lecture-92
+109. Binary Tree Data Structure
+- Binary Tree Paths
+
 # Lecture-93
+110. Binary Tree Data Structure
+- Maximum width of Binary Tree
+
 # Lecture-94
+111. Binary Tree Data Structure
+- Morris Inorder Traversal
+
 # Lecture-95
+112. Binary Tree Data Structure
+- Flatten Binary to Linked List
+
 # Lecture-96
+113. Binary Tree Data Structure
+- Binary Search Trees
+
 # Lecture-97
+114. Binary Tree Data Structure
+- Sorted Array to Balanced BST
+
 # Lecture-98
+115. Binary Tree Data Structure
+- Validate Binary Tree
+
 # Lecture-99
+116. Binary Tree Data Structure
+- Min Distance between BST Nodes
+
 # Lecture-100
+117. Binary Tree Data Structure
+- Kth Smallest in BST
+
 # Lecture-101
+118. Binary Tree Data Structure
+- Lowest Common Ancestor in BST
+
 # Lecture-102
+119. Binary Tree Data Structure
+- Construct BST from Preorder
+
 # Lecture-103
+120. Binary Tree Data Structure
+- Merge Two BST
+
 # Lecture-104
+121. Binary Tree Data Structure
+- Recover BST
+
 # Lecture-105
+122. Binary Tree Data Structure
+- Largest BST in Binary Tree
+
 # Lecture-106
+123. Binary Tree Data Structure
+- Populate Next Right Pointers in Each Node
+
 # Lecture-107
+124. Binary Tree Data Structure
+- BST Iterator
+
 # Lecture-108
+125. Binary Tree Data Structure
+- Inorder Predecessor and Successor in BST
 
 # Lecture-109
-125. Graph
+126. Graph
 - what is graph, vertex, branches, use cases
 - Types of Graph on the basis of Edge's direction and Edge weight
 - connected and dis-connected graph 
@@ -532,29 +585,29 @@ Data Structures and Algorithms in C++ || GitHub repository || Lecture Numbers, T
 - How to traverse the Graph : DFS and BFS
 
 # Lecture-110
-126. Graph
+127. Graph
 - BFS Traversal (Breadth First Search), Implementation
 
 # Lecture-111
-127. Graph
+128. Graph
 - DFS Traversal (Depth First Search), Implementation
 
 # Lecture-112
-128. Graph
+129. Graph
 - Cycle Detection in Undirected graph using DFS
 
 # Lecture-113
-129. Graph
+130. Graph
 - Cycle Detection in Undirected graph using BFS
 
 # Lecture-114
-130. Graph
+131. Graph
 - Leetcode problem No. 200 | Numbers of Islands
 
 # Lecture-115
-131. Graph
+132. Graph
 - Leetcode problem No. 994 | Rotting Oranges
 
 # Lecture-116
-132. Graph
+133. Graph
 - Cycle Detection in directed graph using DFS
