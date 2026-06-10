@@ -131,14 +131,12 @@ using namespace std;
 //     };
 //    return sumDigits;
 // }
-
 // int main(){
 //     cout <<"Sum of digit of a number =" <<sumDigit(752144) <<endl;
 //     return 0;
 // }
 
 //Ex.6 calculate the nCr binomial function
-
 
 // int factorial(int num){
 //     int fact =1;
@@ -147,21 +145,16 @@ using namespace std;
 //     }
 //     return fact;
 // }
-//   int nCr(int n, int r){
-    
+//   int nCr(int n, int r){  
 //    int l= factorial(n);
 //    int m= factorial(r);
 //    int p= factorial(n-r);
-
 //    int ncr = l/(m*p);
 //      return ncr;
 //   }
-
- 
 // int main(){
 //     // cout<<factorial(5);
 //     cout <<nCr(8,2);
-
 //     return 0;
 // }
 
@@ -183,24 +176,39 @@ using namespace std;
 
 //Ex.8 print all prime numbers from 2 to n;
 
-bool PrimeN(int n){
-    for(int i=2; i<n; i++){
-        if(n%i !=0){
-            return true;
-        } else {
-           return false;
-        }
+// bool PrimeN(int n){
+//     for(int i=2; i<n; i++){
+//         if(n%i !=0){
+//             return true;
+//         } else {
+//            return false;
+//         }
+//     }
+// };
+// int main(){
+//     int n =20;
+//     for(int i=2; i<=n; i++){
+//         if(PrimeN(i))
+//         {
+//             cout << i <<" ";
+//         }
+//     }
+//     return 0;   
+// }
+
+//Ex.9 WAF to print nth Fibonaai Series
+
+void FibonacciSeries(int n){
+    int a = 0,  b = 1;
+    for(int i=0; i<n; i++){
+        cout << a <<" ";
+        int nextNum = a+b;
+        a = b;
+        b= nextNum;
     }
+    cout <<endl;
 };
-
 int main(){
-    int n =20;
-    for(int i=2; i<=n; i++){
-        if(PrimeN(i))
-        {
-            cout << i <<" ";
-        }
-    }
-    return 0;   
-}
-
+   FibonacciSeries(5);
+    return 0;
+}   
