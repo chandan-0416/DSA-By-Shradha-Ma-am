@@ -617,7 +617,8 @@ Data Structures and Algorithms in C++ || GitHub repository || Lecture Numbers, T
 - Topological sorting in Graph
 
 
-# 🚀🚀 Started my Revision & solving problems |  There's is Revision Folder 🚀🚀
+# Started my Revision & solving problems🚀
+# Revision Folder in folder structure: 
 1. R1 
 2. R2
 3. R3
