@@ -506,26 +506,29 @@ Data Structures and Algorithms in C++ || GitHub repository || Lecture Numbers, T
 # Lecture-91
 108. Binary Tree Data Structure
 - Tranform to Sum Tree
+- What is Sum Tree?
 
 # Lecture-92
 109. Binary Tree Data Structure
-- Binary Tree Paths
+- Leetcode problem No. 257 | Binary Tree Paths
 
 # Lecture-93
 110. Binary Tree Data Structure
-- Maximum width of Binary Tree
+- Leetcode problem No. 662 | Maximum width of Binary Tree
+- What is Complete Binary Tree(CBT) & CBT Indexing?
 
 # Lecture-94
 111. Binary Tree Data Structure
-- Morris Inorder Traversal
+- Leetcode problem No. 94 | Binary Tree Inorder Traversal
+- Another way to solve this Problems, By Morris Inorder Traversal
 
 # Lecture-95
 112. Binary Tree Data Structure
-- Flatten Binary to Linked List
+- Leetcode problem No. 144 | Flatten Binary Tree to Linked List
 
 # Lecture-96
 113. Binary Tree Data Structure
-- Binary Search Trees
+- Binary Search Tree
 
 # Lecture-97
 114. Binary Tree Data Structure
