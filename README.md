@@ -527,8 +527,10 @@ Data Structures and Algorithms in C++ || GitHub repository || Lecture Numbers, T
 - Leetcode problem No. 144 | Flatten Binary Tree to Linked List
 
 # Lecture-96
-113. Binary Tree Data Structure
-- Binary Search Tree
+113. Binary Search Tree
+- What is Binary Search Tree (BST)?
+- Properties
+- insert, search + Time complexity, deletion of Node
 
 # Lecture-97
 114. Binary Tree Data Structure
