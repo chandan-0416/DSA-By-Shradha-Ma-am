@@ -30,7 +30,7 @@ using namespace std;
 //     return 0;
 // }
 
-//3. Find smallest / largest in Array
+//3. Find smallest / largest number in Array
 
 // int main(){
 //    int num[]={5,6,-56,29,17,7};
@@ -116,4 +116,3 @@ using namespace std;
 //    cout<<endl;
 //    return 0;
 // }
-

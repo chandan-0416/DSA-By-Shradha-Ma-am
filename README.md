@@ -531,10 +531,11 @@ Data Structures and Algorithms in C++ || GitHub repository || Lecture Numbers, T
 - What is Binary Search Tree (BST)?
 - Properties
 - insert, search + Time complexity, deletion of Node
+- Balanced BST
 
 # Lecture-97
-114. Binary Tree Data Structure
-- Sorted Array to Balanced BST
+114. Binary Search Tree
+- Leetcode problem No. 108 | Convert Sorted Array to Balanced BST
 
 # Lecture-98
 115. Binary Tree Data Structure
